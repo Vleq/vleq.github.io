@@ -1,0 +1,12 @@
+body {
+    color: #d04
+    width: 80vw
+}
+p#quote {
+    width: 50vw
+    text-indent: 20%
+    font-style: italic
+}
+img {
+    max-width: 60vw
+}
