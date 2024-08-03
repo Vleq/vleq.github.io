@@ -1,12 +1,12 @@
-p {
-    color: #d04
-    width: 80vw
+div {
+    color: #d04;
+    width: 80vw;
 }
 #quote {
-    width: 50vw
-    text-indent: 20%
-    font-style: italic
+    width: 50vw;
+    text-indent: 20%;
+    font-style: italic;
 }
 img {
-    max-width: 60vw
+    max-width: 60vw;
 }
