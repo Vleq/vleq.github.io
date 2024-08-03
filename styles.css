@@ -1,8 +1,8 @@
-body {
+div,a {
     color: #d04
     width: 80vw
 }
-p#quote {
+#quote {
     width: 50vw
     text-indent: 20%
     font-style: italic
